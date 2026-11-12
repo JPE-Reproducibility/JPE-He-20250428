@@ -1,0 +1,10 @@
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/output/intermediate/facebook_orderings.csv
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/output/intermediate/facebook_orderings_info.csv
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/intermediate/figure4_ri.csv
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/intermediate/figure5_summary.csv
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/intermediate/figure7_expected_utility.csv
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/numbers/facebook_numbers.csv
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/numbers/figure4_numbers.csv
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/numbers/figure5_numbers.csv
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/tables/facebook_results_by_school.csv
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/tables/table1.csv

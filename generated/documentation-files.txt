@@ -1,0 +1,5 @@
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/figures/clustering_potential_signals.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/figures/clustering_reachable_signals.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/figures/gains_regular_d1d2_bw.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/figures/gains_regular_d_bw.pdf
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/figures/gen_size_K_speed_bw.pdf

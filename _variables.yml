@@ -1,6 +1,13 @@
-title: "Stand-in title"
-author: "Dr Prof James 'JayJay' Author"
-paper_id: 12345678
+title: "Aggregative Efficiency of Bayesian Learning in Networks"
+author: "He"
 round: 1
-repo: "https://www.github.com/standin"
-dropbox_rel_path: "JPE/Author-12345678/1"
+repo: "https://github.com/JPE-Reproducibility/JPE-He-20250428"
+paper_id: 20250428
+journal: "JPE"
+paper_slug: "He-20250428"
+dropbox_rel_path: "JPE/He-20250428/1"
+package_size_gb: 0.0
+package_max_file_size_gb: 2
+package_max_pkg_size_gb: 10
+large_reports_url: "https://www.dropbox.com/scl/fo/thjv8dy5ekl81zizi2z5t/ADu5y7OrOZIkB1j0_e_nduQ?rlkey=x1e4pvslg3sg0tx9nszblkin8&dl=0"
+paper_source_subfolder: "paper-appendices"

@@ -1,0 +1,14 @@
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/config.R
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/run_all.R
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/code/01_figure4_maximal_generations.R
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/code/03_figure5_random_regular.R
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/code/05_facebook_random_orderings.R
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/code/06_facebook_results.R
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/code/lib/generations.R
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/code/lib/signal_counting.R
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/code/lib/utils.R
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/code/tests/test_signal_counting.R
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/code/02_figure7_utility_vs_signals.py
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/code/04_facebook_extract.py
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/code/lib/signal_counting.c
+/var/folders/5q/yhcyv3z55wvg6lhgc3h22kk00000gq/T/20250428-1/replication-package/replication_package/reference_output/tables/table1.tex

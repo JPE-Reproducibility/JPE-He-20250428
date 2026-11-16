@@ -18,17 +18,17 @@ config <- list(
   # Python interpreter with numpy, scipy and matplotlib (see requirements.txt)
   # [PYTHON], e.g. PYTHON=.venv/bin/python (macOS/Linux) or
   # .venv\Scripts\python.exe (Windows).
-  python = Sys.getenv("PYTHON", unset = if (.Platform$OS.type == "windows") "python" else "python3"),
+  python = Sys.getenv("PYTHON", unset = "/files/JPE-He-20250428/replication-package/replication_package/.venv/bin/python"),
 
   # Parallel worker processes [N_CORES]. Workers are forked processes, so they
   # are used on macOS and Linux only; on Windows everything runs on one core.
-  n_cores = env_int("N_CORES", max(1L, min(8L, detected_cores - 1L))),
+  n_cores = env_int("N_CORES", 15L),
 
   # Memory budget in GB for Facebook jobs running at the same time. A school
   # with N students needs about 8.2 * N^2 bytes (6 GB for the largest school,
   # Penn94); a school larger than the budget runs alone. NA means 60% of the
   # physical memory (8 GB if it cannot be determined).
-  mem_budget_gb = NA,
+  mem_budget_gb = 64,
 
   # Use the compiled implementation of Algorithm 1 (code/lib/signal_counting.c)
   # if a C compiler is available; otherwise the pure-R version is used.

@@ -1,0 +1,25 @@
+[R] Example 1: shield network r = (1, 2, 2, 4)                                 PASS
+[R] Example 1: diamond network r_4 = 11/3                                      PASS
+[R] Example 2: three-generation network formula                                PASS
+[R] maximal generations network matches closed form (Fig. 4)                   PASS
+[R] generations recursion (Fig. 5) matches Algorithm 1                         PASS
+[compiled] Example 1: shield network r = (1, 2, 2, 4)                          PASS
+[compiled] Example 1: diamond network r_4 = 11/3                               PASS
+[compiled] Example 2: three-generation network formula                         PASS
+[compiled] maximal generations network matches closed form (Fig. 4)            PASS
+[compiled] generations recursion (Fig. 5) matches Algorithm 1                  PASS
+observation_csr matches dense-matrix construction (dups, reversals, loops)     PASS
+compiled and pure-R Algorithm 1 agree (incl. dense network, d up to ~380)      PASS
+compiled and igraph reachability counts agree                                  PASS
+all Cholesky pivots are at least 1 (as in exact arithmetic)                    PASS
+1 + max_j r_j <= r_i <= 1 + |N^ind(i)| on random networks                      PASS
+rng_streams: adding substreams leaves earlier ones unchanged                   PASS
+rng_streams: leaves the caller's RNG state unchanged                           PASS
+run_jobs (sequential): leaves the caller's RNG state unchanged                 PASS
+rng_streams: distinct streams and substreams give different draws              PASS
+run_jobs: parallel results equal sequential results, in job order              PASS
+run_jobs: NULL results are returned as NULL                                    PASS
+run_jobs: an error in a job stops the run                                      PASS
+run_jobs: a worker killed by the OS stops the run                              PASS
+package source and documentation files are plain ASCII                         PASS
+All tests passed.

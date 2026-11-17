@@ -1,0 +1,11 @@
+[2026-11-16 11:34:29] Starting steps 00 01 02 03 04 05 06 with 15 parallel worker(s)
+[2026-11-16 11:34:29] Step 00: tests of the signal-counting code (log: output/logs/test_signal_counting.log)
+[2026-11-16 11:34:33]   done in 0.1 minutes
+[2026-11-16 11:34:33] Step 01: Figure 4 (log: output/logs/01_figure4_maximal_generations.log)
+[2026-11-16 11:34:34]   done in 0.0 minutes
+[2026-11-16 11:34:34] Step 02: Figure 7 (log: output/logs/02_figure7_utility_vs_signals.log)
+[2026-11-16 11:34:37]   done in 0.1 minutes
+[2026-11-16 11:34:37] Step 03: Figure 5 (log: output/logs/03_figure5_random_regular.log)
+[2026-11-16 11:40:09]   done in 5.5 minutes
+[2026-11-16 11:40:09] Step 04: Facebook data extraction (log: output/logs/04_facebook_extract.log)
+[2026-11-16 11:40:09] Step 04 FAILED (status 1). Last lines of output/logs/04_facebook_extract.log:

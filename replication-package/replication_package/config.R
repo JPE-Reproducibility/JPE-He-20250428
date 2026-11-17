@@ -28,7 +28,7 @@ config <- list(
   # with N students needs about 8.2 * N^2 bytes (6 GB for the largest school,
   # Penn94); a school larger than the budget runs alone. NA means 60% of the
   # physical memory (8 GB if it cannot be determined).
-  mem_budget_gb = 64,
+  mem_budget_gb = 38,
 
   # Use the compiled implementation of Algorithm 1 (code/lib/signal_counting.c)
   # if a C compiler is available; otherwise the pure-R version is used.

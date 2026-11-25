@@ -25,8 +25,12 @@ Some useful information up front:
 
 In assessing compliance with our [Data and Code Availability Policy](https://www.journals.uchicago.edu/journals/jpe/datapolicy), our reproducibility team has identified the following issues, which we ask you to address:
 
-1.  Data Editor's first point.
-2.  Data Editor's second point.
+1.  Your reference to the internet archive as a host for the data is not valid. It's not one of our [trusted repositories](https://social-science-data-editors.github.io/guidance/Guidance/Requested_information_hosting.html). Ideally you could provide a DOI for that dataset. Low and behold, I tried twice to download the data from the site but got a server error. I advise you to do the following:
+    1.  Get in contact with those authors and inform them of your plight. Inform them further that you will cite their paper as the source of the data. You should ask for their permission to include their raw data as you downloaded it from the web archive
+    2.  Alternatively, and much preferred, you would ask them to create a data deposit on zenodo.org (free), where they fill out some basic metadata, link to their publication, and - importantly - get a DOI. You will then cite that DOI in your paper and replication package. 
+    3.  I am happy to help in this process, so feel free to copy my in any email correspondance if you think this could help.
+2.  Point 1 implied that we could not get your data, so there are several exhibits that were not reproduced. 
+3.  There are 2 statements missing from your readme, see below.
 
 # General
 
